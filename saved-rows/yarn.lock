@@ -1152,10 +1152,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@beefree.io/sdk@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@beefree.io/sdk/-/sdk-6.0.0.tgz#d024d200fd53013d45c2c80ae48f04be03cf1c8f"
-  integrity sha512-94Kz0A1G4HA6HHOGtV9nwgReJkljMgtlLka3vzmb8AmIFVWdour3O/o5uWXjjoT45eN6VQeX9ts8mz18XUR8Aw==
+"@beefree.io/sdk@^7.0.2":
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/@beefree.io/sdk/-/sdk-7.0.2.tgz#238cd9f36c25edc9605791f7eb3adba0fb38e34e"
+  integrity sha512-F7/7Qd6uhnkEFMdpyO1Xurr6RulzbJ8Og5wuuijHb6c+kahYxJgVdSxWRcctc5G+ejC/OjyL3inGh/yVuxPN6Q==
   dependencies:
     axios "^1.7.2"
     csstype "^3.1.2"
